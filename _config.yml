@@ -1,7 +1,7 @@
 name: knutix
 favicon: null
-layout_spectrum: 0.23633083910681307
-typography_spectrum: 0.21968087344430387
+layout_spectrum: 0.25552
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.9096014199312776
+    - '#b9b9b9'
+    - '#767676'
+    - '#000000'
+    - '#003121'
+    - '#eaeaea'
+  brandStrength: 0.125
   lightness: 0.9983291574753821
   saturation: 0.9874794008210301
   rhythmicContrast: 0.4044461539015174
